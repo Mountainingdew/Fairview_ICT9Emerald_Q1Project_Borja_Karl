@@ -1,4 +1,4 @@
- ul, ol, dl {
+ul, ol, dl {
   margin-left: 0;
   padding: 0;
   text-align: center;
@@ -45,9 +45,7 @@ body {
       width: 120px;
       border-radius: 50%;
     }
-    ul, ol, dl {
-      margin-left: 20px;
-    }
+
     form {
       background-color: #555;
       padding: 15px;
@@ -69,7 +67,4 @@ body {
     }
     input[type="submit"]:hover {
       background-color: #300;
-    }
-    p {
-      text-align: center;
     }
